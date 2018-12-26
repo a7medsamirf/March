@@ -1204,3 +1204,43 @@ a:hover
 
 
 
+@media (min-width:321px)
+{
+    .showcase-slider div.prevLeftSecond {
+        -webkit-transform: translateY(50%) translateX(-50%);
+        transform: translateY(20%) translateX(-50%);
+    }
+    .showcase-slider div.prevLeftSecond img {
+        width: 185px;
+    }
+    .showcase-slider div.prev {
+        -webkit-transform: translateY(50px) translateX(-50%);
+        transform: translateY(50px) translateX(-50%);
+    }
+    .showcase-slider div.prev img {
+        width: 190px;
+    }
+    .showcase-slider div.selected {
+        -webkit-transform: translateY(0px) translateX(-50%);
+        transform: translateY(0px) translateX(-50%);
+    }
+    .showcase-slider div img {
+        width: 245px;    
+    }
+    .showcase-slider div.next {
+        -webkit-transform: translateY(50px) translateX(-50%);
+        transform: translateY(50px) translateX(-50%);
+    }
+    .showcase-slider div.next img {
+        width: 200px;
+    }
+    .showcase-slider div.nextRightSecond {
+        -webkit-transform: translateY(50%) translateX(-50%);
+        transform: translateY(20%) translateX(-50%);
+    }
+    .showcase-slider div.nextRightSecond img {
+        max-width: 200px;
+    }
+
+
+}
