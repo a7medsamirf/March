@@ -4,6 +4,17 @@ $(document).ready(function() {
   $('body').bootstrapMaterialDesign();
 });
 
+  // Start niceScroll
+  $(document).ready(function () {
+    $("html").niceScroll({
+      scrollspeed: "100",
+      cursorcolor: "#FB3B64",
+      cursorborder: "3px solid #FB3B64",
+      cursorborderradius:0,
+      sensitiverail: false,
+  });
+}); 
+     
 
      //Check the scroll position
 $(window).scroll(function(){
@@ -103,15 +114,25 @@ $('#next').click(function() {
 });
 
 
-
-// Loading
-$(window).on('load', function(){
-
-	$('.sk-cube-grid').delay(0).fadeOut(1000, function(){
-		$('.preload').slideUp(1000);
-	});	
-
-});
+       // start loading 
+       $(window).on("load", function () {
+      
+        "use strict";
+        
+        // Loading Elements
+        
+        $(".sk-cube-grid").fadeOut(1000, function () {
+            
+            // Show The Scroll
+    
+            $("body").css("overflow", "hidden");
+            
+            $(this).parent().slideUp(1000, function () {
+                
+                $(this).remove();
+            });
+        });
+    });
 
 
 // popup
