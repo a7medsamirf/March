@@ -1199,11 +1199,6 @@ a:hover {
         padding-top: 70px
     }
 
-}
-
-/* --- end 576px ---*/
-
-@media (max-width:322px) {
     .showcase-slider div.prevLeftSecond {
         -webkit-transform: translateY(20%) translateX(-60%);
         transform: translateY(20%) translateX(-60%);
@@ -1249,11 +1244,12 @@ a:hover {
         -webkit-transform: translateY(20%) translateX(-40%);
                 transform: translateY(20%) translateX(-40%);
         }
-        
+
     .showcase-slider div.nextRightSecond img {
         max-width: 160px;
     }
 
-
 }
+
+/* --- end 576px ---*/
 
