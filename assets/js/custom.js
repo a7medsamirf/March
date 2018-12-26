@@ -4,16 +4,7 @@ $(document).ready(function() {
   $('body').bootstrapMaterialDesign();
 });
 
-  // Start niceScroll
-  $(document).ready(function () {
-    $("html").niceScroll({
-      scrollspeed: "100",
-      cursorcolor: "#FB3B64",
-      cursorborder: "3px solid #FB3B64",
-      cursorborderradius:0,
-      sensitiverail: false,
-  });
-}); 
+
      //Check the scroll position
 $(window).scroll(function(){
 	if ($(this).scrollTop() > 100) {

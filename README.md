@@ -2,24 +2,14 @@
 ## Depends on  Bootstrap Library
 This Template For Freelancers To Define Themselves And Display Their Works.
 
-
-Download PSD: [PSD File](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/psd%20file.zip).
-
-Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
-
-![Glazzy Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/glazzy-image.png)
-
-##  Photos of Site Pages
-![About Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/images/Photos-of-Site-Pages/about.png)
-![Work Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/images/Photos-of-Site-Pages/work.png)
-![Labs Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/images/Photos-of-Site-Pages/labs.png)
-![Contact Us Image](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/images/Photos-of-Site-Pages/contact.png)
+Review : [March Demo](https://a7medsamirf.github.io/March/)
 
 ## Content:
 1. CSS Foder
      - Font Awesome > all.min.css
      - Animate      > animate.min.css
      - Bootstrap    > bootstrap.css
+     - magnific     > magnific-popup.css
      - Style        > style.css
     
 2. Template Images > All Images and illustrations are just for demonstration, all right reserved by Vijay Verma.
@@ -27,10 +17,10 @@ Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 3. Js Foder
      - Bootstrap  > bootstrap.min.js	 bootstrap.min. V 4.0.0
      - jquery     > jquery-3.3.1.min.js	
-     - plugin     > plugin.js	  
+     - custom     > custom.js	  
      - popper     > popper.min.js
      - wow        > wow.min.js
-     
+     - smooth     > smooth-scroll.js
 3. Web Fonts 
 
 4. License
@@ -40,10 +30,10 @@ Review : [Glazzy Demo](https://ahmedfaheem.github.io/Glazzy-Theme/)
 6. logo.ico    
     
  ## Languages and libraries  
- - Html
- - Css
- - Bootstrap
- - jquery
+ - Html5
+ - Css3
+ - Bootstrap 4
+ - jquery 3.3.1
  - Wow js
  - magnific popup js
  
