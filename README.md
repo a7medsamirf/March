@@ -41,7 +41,7 @@ Review : [March Demo](https://a7medsamirf.github.io/March/)
 
 ### License
 
-[MIT](https://github.com/ahmedfaheem/Glazzy-Theme/blob/master/License).
+[MIT](https://github.com/a7medsamirf/March/blob/master/license).
 
 ### Support or Contact
  Copyright (c) 2018 Ahmed samir  ahmed.samir.farid@gmail.com github.com/a7medsamirf
